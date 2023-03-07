@@ -1,0 +1,40 @@
+
+
+#logo
+{
+    width: 100px;
+}
+
+body
+{
+    margin: 0;
+    background-color: black;
+}
+
+.portada img
+{
+    width: 100%;
+}
+
+.texto-portada
+{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    width: 400px;
+    height: 350px;
+}
+.texto-portada h1
+{
+    font-size: 50px;
+    color: white;
+}
+.texto-portada a
+{
+    background-color: rgba(0, 128, 255, 0.5);
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
