@@ -1,11 +1,11 @@
 <nav>
        <ul class="NavBar">
             <li><a href="Index.php">KEJUMAOM</a></li>
-            <li><a href="Index.php">KEJUMAOM</a></li>
+            <li><a href="Index.php">Historia</a></li>
             <li>
                 <a href="#">Prendas</a>
                 <ul class="Vertical">
-                    <li><a href="">Beanie/Gorra</a></li>
+                    <li><a href="caps.php">Beanie/Gorra</a></li>
                     <li><a href="">Buzo</a></li>
                     <li><a href="">Camiseta</a></li>
                     <li><a href="">Jean/Drill</a></li>
